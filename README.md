@@ -1,16 +1,10 @@
-# fb_chat_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-08-07 at 5 24 03 PM (2)](https://github.com/user-attachments/assets/d82ef0ef-7dba-4692-93a9-2f14a0256db2)
+![WhatsApp Image 2024-08-07 at 5 24 03 PM (1)](https://github.com/user-attachments/assets/629df27c-38b0-40c6-8b00-6fbe50ba71b5)
+![WhatsApp Image 2024-08-07 at 5 24 03 PM](https://github.com/user-attachments/assets/cb28261a-0631-413f-b6e2-67c10f093da0)
+![WhatsApp Image 2024-08-07 at 5 24 02 PM (2)](https://github.com/user-attachments/assets/b7cc7d2c-90df-490a-bd08-08037c372307)
+![WhatsApp Image 2024-08-07 at 5 24 01 PM](https://github.com/user-attachments/assets/702ed926-055d-4011-9507-7177616c467b)
+![WhatsApp Image 2024-08-07 at 5 24 00 PM (1)](https://github.com/user-attachments/assets/3908c46d-94bc-4e07-8b55-00765c65e2f5)
+![WhatsApp Image 2024-08-07 at 5 24 00 PM](https://github.com/user-attachments/assets/8fb17109-1ec0-4404-8e53-6fb5a249da77)
+![WhatsApp Image 2024-08-07 at 5 24 02 PM (1)](https://github.com/user-attachments/assets/e0b42ea8-61f2-4112-b78e-94bf4f76f1f3)
+![WhatsApp Image 2024-08-07 at 5 24 02 PM](https://github.com/user-attachments/assets/2646be92-c99c-4941-817a-d9ee3dd5df59)
+![WhatsApp Image 2024-08-07 at 5 24 01 PM (1)](https://github.com/user-attachments/assets/41d996ae-4633-4b77-b0c7-8a6eefd3c148)
